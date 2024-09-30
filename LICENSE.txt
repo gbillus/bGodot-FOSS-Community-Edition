@@ -18,3 +18,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+In adittion, the owner of this repository agrees to abide by Local Regulations as required by our jurisdiction which include,
+but are not limited to, freedom of political expression. We are legally bound, not to discriminate or use products that promote
+such acts. This repositiory exists as a direct result of the precarious legal situation that the Godot Foundation has put myself,
+and thousands of others in. Any disciplinary action will be determined based on actions and not opinions to comply with both local
+EU regulation. We will not support any facists that decide to restrict the flow of an FREE and OPEN SOURCE project, to its LICENSE HOLDERS,
+based on any discrimitory factor, including but not limited to: Race, Gender, Sexuality, Regligion, social class, income, Political affiliation,
+personal beliefs, or anything else. 
